@@ -4,8 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: Capítulo 1 El modelo de Ingreso-Gasto Keynesiano
-- file: Capítulo 2 La Curva IS
-- file: Capítulo 3 El Mercado Monetario y la Curva LM
-- file: Capítulo 4 El Modelo IS-LM
-- file: Capítulo 5 El Modelo DA-OA
+- file: Capítulo 1 - El modelo de Ingreso-Gasto Keynesiano
+- file: Capítulo 2 - La Curva IS
+- file: Capítulo 3 - El Mercado Monetario y la Curva LM
+- file: Capítulo 4 - El Modelo IS-LM
+- file: Capítulo 5 - El Modelo DA-OA
